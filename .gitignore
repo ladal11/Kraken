@@ -363,4 +363,5 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # pcote added ignored files
+bin/
 bin-int/
